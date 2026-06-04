@@ -1,0 +1,20 @@
+
+{
+    "contacts":[
+        {
+            "id":"1",
+            "name":"Bhabani Sahu",
+            "email":"imbhabani222@gmail.com",
+            "userId":"1"
+        }
+    ],
+    "users":[
+        {
+            "id":"1",
+            "name":"admin",
+            "email":"admin@gmail.com",
+            "password":"123456"
+
+        }
+    ]
+}
